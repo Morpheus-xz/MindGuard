@@ -1,0 +1,29 @@
+# FastAPI
+fastapi>=0.109
+uvicorn[standard]>=0.27
+python-multipart>=0.0.9
+
+# ML
+torch>=2.1
+transformers>=4.40
+sentence-transformers>=2.7
+spacy>=3.7
+numpy>=1.26
+pandas>=2.2
+
+# Database
+supabase>=2.3
+pinecone-client>=3.0
+
+# Auth
+python-jose[cryptography]>=3.3
+passlib[bcrypt]>=1.7
+
+# Utils
+python-dotenv>=1.0
+pyyaml>=6.0
+pydantic>=2.5
+pydantic-settings>=2.1
+
+# Explainability (optional, heavy)
+# shap>=0.45
