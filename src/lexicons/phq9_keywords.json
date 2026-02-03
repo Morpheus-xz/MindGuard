@@ -1,0 +1,153 @@
+{
+  "anhedonia": {
+    "keywords": [
+      "no interest",
+      "don't enjoy",
+      "nothing matters",
+      "can't feel pleasure",
+      "don't care anymore",
+      "lost interest",
+      "pointless",
+      "no motivation",
+      "nothing excites me",
+      "stopped caring",
+      "no joy",
+      "numb"
+    ],
+    "severity_weight": 2
+  },
+  "depressed_mood": {
+    "keywords": [
+      "hopeless",
+      "sad",
+      "depressed",
+      "down",
+      "empty",
+      "miserable",
+      "despair",
+      "no hope",
+      "giving up",
+      "unhappy",
+      "melancholy",
+      "gloomy",
+      "heartbroken",
+      "devastated"
+    ],
+    "severity_weight": 2
+  },
+  "sleep_disturbance": {
+    "keywords": [
+      "can't sleep",
+      "insomnia",
+      "sleep too much",
+      "tired all the time",
+      "exhausted",
+      "no energy",
+      "sleeping all day",
+      "wake up at night",
+      "trouble sleeping",
+      "oversleeping",
+      "restless nights",
+      "nightmares"
+    ],
+    "severity_weight": 1
+  },
+  "fatigue": {
+    "keywords": [
+      "no energy",
+      "exhausted",
+      "tired",
+      "drained",
+      "worn out",
+      "can't get up",
+      "fatigue",
+      "lethargic",
+      "sluggish",
+      "wiped out",
+      "burned out",
+      "running on empty"
+    ],
+    "severity_weight": 1
+  },
+  "appetite_changes": {
+    "keywords": [
+      "not eating",
+      "no appetite",
+      "eating too much",
+      "lost weight",
+      "gained weight",
+      "can't eat",
+      "binge eating",
+      "starving myself",
+      "food doesn't taste",
+      "overeating",
+      "skipping meals"
+    ],
+    "severity_weight": 1
+  },
+  "worthlessness": {
+    "keywords": [
+      "worthless",
+      "failure",
+      "useless",
+      "burden",
+      "hate myself",
+      "disgusted with myself",
+      "disappointment",
+      "let everyone down",
+      "good for nothing",
+      "pathetic",
+      "loser",
+      "waste of space",
+      "don't deserve"
+    ],
+    "severity_weight": 2
+  },
+  "concentration": {
+    "keywords": [
+      "can't focus",
+      "can't concentrate",
+      "distracted",
+      "mind wandering",
+      "brain fog",
+      "can't think",
+      "forgetful",
+      "confused",
+      "scattered thoughts",
+      "zoning out"
+    ],
+    "severity_weight": 1
+  },
+  "psychomotor": {
+    "keywords": [
+      "moving slowly",
+      "restless",
+      "agitated",
+      "can't sit still",
+      "fidgeting",
+      "slowed down",
+      "nervous energy",
+      "pacing"
+    ],
+    "severity_weight": 1
+  },
+  "suicidal_ideation": {
+    "keywords": [
+      "want to die",
+      "kill myself",
+      "suicide",
+      "end it all",
+      "better off dead",
+      "no reason to live",
+      "self-harm",
+      "hurt myself",
+      "don't want to exist",
+      "end my life",
+      "not worth living",
+      "wish i was dead",
+      "cutting myself",
+      "overdose"
+    ],
+    "severity_weight": 3
+  }
+}
