@@ -1,52 +1,33 @@
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
-
-# Virtual environments
 .venv/
 venv/
-ENV/
-
-# Environment variables
 .env
+
+# Data & Models (large files)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+backend/models/*
+!backend/models/.gitkeep
+
+# Node
+node_modules/
+frontend/dist/
 
 # IDE
 .vscode/
 .idea/
-*.swp
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Data (large files)
-data/raw/*
-!data/raw/.gitkeep
-
-# Models (large files)
-models/baseline/*
-models/bert/*
-models/lstm/*
-!models/baseline/.gitkeep
-!models/bert/.gitkeep
-!models/lstm/.gitkeep
-
-# Databases
-*.db
-data/chroma_db/
-
-# MLflow
-mlruns/
-
-# OS files
+# OS
 .DS_Store
-Thumbs.db
 
 # Logs
 *.log
-logs/
 
-# Test artifacts
+# Test
 .pytest_cache/
 .coverage
-htmlcov/
