@@ -31,3 +31,20 @@ frontend/dist/
 # Test
 .pytest_cache/
 .coverage
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model files and checkpoints
+models/
+*.safetensors
+*.pt
+*.pth
+*.h5
+*.pkl
+*.onnx
+
+# Large binaries
+*.dylib
+*.so
